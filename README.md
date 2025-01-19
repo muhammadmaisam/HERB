@@ -1,2 +1,1 @@
-# HERB
-HERB - The Handy Emergency Rescue Bot
+# HERB - The Handy Emergency Rescue Bot
